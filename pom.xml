@@ -3,7 +3,7 @@
 
   <groupId>com.azienda</groupId>
   <artifactId>maven1</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>progettoMaven1</name>
@@ -34,7 +34,7 @@
   <scm>
 		<connection>scm:git:https://github.com/robSantoroGit/maven1.git</connection>
 		<developerConnection>scm:git:https://github.com/robSantoroGit/maven1.git</developerConnection>
-		<tag>maven1-1.0.2</tag>
+		<tag>maven1-1.0.1</tag>
 		<url>http://github.com/robSantoroGit/maven1</url>
 	</scm>
 	
