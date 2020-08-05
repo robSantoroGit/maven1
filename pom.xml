@@ -32,8 +32,8 @@
   </dependencies>
   
   <scm>
-		<connection>scm:git:robSantoroGit@github.com:robSantoroGit/maven1.git</connection>
-		<developerConnection>scm:git:robSantoroGit@github.com:robSantoroGit/maven1.git</developerConnection>
+		<connection>scm:git:https://github.com/robSantoroGit/maven1.git</connection>
+		<developerConnection>scm:git:https://github.com/robSantoroGit/maven1.git</developerConnection>
 		<tag>maven1-1.0.0</tag>
 		<url>https://github.com/robSantoroGit/maven1</url>
 	</scm>
